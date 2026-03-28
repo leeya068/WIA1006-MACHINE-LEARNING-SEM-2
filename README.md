@@ -2,34 +2,6 @@
 
 This repository contains all my machine learning practices, tutorials, and assignments completed during the WIA1006 Machine Learning course.
 
-## 📁 Repository Structure
-```
-WIA1006-MACHINE-LEARNING-SEM-2/
-│
-├── 📓 Notebooks/
-│   └── W3_Data_Preprocessing.ipynb    # Data cleaning and preprocessing
-│
-├── 📊 Datasets/
-│   ├── Banking_Marketing.csv           # Bank marketing campaign data
-│   ├── german_credit_card.csv          # German credit risk data
-│   ├── student.csv                      # Student performance data
-│   ├── mark.csv                         # Student marks dataset
-│   ├── Wholesale_customers_data.csv    # Customer segmentation data
-│   └── Student_bucketing.csv           # Student categorization data
-│
-└── README.md                           # This file
-```
-
-## 📊 Datasets Description
-
-| Dataset | Description | Columns | Use Case |
-|---------|-------------|---------|----------|
-| **Banking Marketing** | Bank marketing campaign data | 21 columns | Classification (term deposit subscription) |
-| **German Credit Card** | Credit risk assessment | 21 columns | Credit score classification |
-| **Student Performance** | Student grades and demographics | 5 columns | Performance prediction |
-| **Wholesale Customers** | Customer spending patterns | 8 columns | Market segmentation |
-| **Student Bucketing** | Student categorization | 4 columns | Educational data analysis |
-
 ## 🛠️ Technologies Used
 
 - **Python 3.8+** - Programming language
